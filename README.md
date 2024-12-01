@@ -1,2 +1,1 @@
-# Nobby-Game-Auto-Clicker
-Nobby-Game-Auto-Clicker
+# Gemz-Auto-Clicker-Powerful
